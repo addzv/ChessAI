@@ -1,4 +1,3 @@
-import ai
 from move import Move
 
 class Piece():
